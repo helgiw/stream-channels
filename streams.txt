@@ -1,1 +1,10 @@
-doot
+[
+  {"name": "KVF",             "url": "https://w-live-edge1.kringvarp.fo/kvf/_definst_/720.stream/playlist.m3u8"},
+  {"name": "KVF2",            "url": "https://w-live-edge2.kringvarp.fo/kvf-2/_definst_/720.stream/playlist.m3u8"},
+  {"name": "DR1",             "url": "https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8"},
+  {"name": "DR2",             "url": "https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8"},
+  {"name": "SVT1",            "url": "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?format=hls"},
+  {"name": "SVT2",            "url": "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?format=hls"},
+  {"name": "SVT24",           "url": "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?format=hls"},
+  {"name": "Kunskapskanalen", "url": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?format=hls"}
+]
