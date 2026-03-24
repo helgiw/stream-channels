@@ -6,5 +6,7 @@
   {"name": "SVT1",            "url": "https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?format=hls"},
   {"name": "SVT2",            "url": "https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?format=hls"},
   {"name": "SVT24",           "url": "https://svt-live-channel.akamaized.net/l6/se/svtb/master-fmp4.m3u8?format=hls"},
-  {"name": "Kunskapskanalen", "url": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?format=hls"}
+  {"name": "Kunskapskanalen", "url": "https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?format=hls"},
+  {"name": "Al Jazeera",      "url": "https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8"},
+  {"name": "DW News",         "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"}
 ]
